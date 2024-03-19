@@ -4,17 +4,17 @@ Balder App is a special App which is clone to produce new apps, using the forks 
 Our backend server is common for all the apps and is important to keep the back-track compatibility.
 
 ## Rules
-1 - Backend need to be back compatible
+- Backend need to be back compatible
 
-2 - We develop on the Costumer Fork
+- We develop on the Costumer Fork
 
-3 - If some functionality is generic, we merge from the fork to mobile app 
+- If some functionality is generic, we merge from the fork to mobile app 
 
-4 - If we are updating the app to the latest version, we sync the fork with the app
+- If we are updating the app to the latest version, we sync the fork with the app
 
-[Whatch this video for better understanding on forks](https://www.youtube.com/watch?v=U38dgSINf4E&feature=youtu.be)
+    [Whatch this video for better understanding on forks](https://www.youtube.com/watch?v=U38dgSINf4E&feature=youtu.be)
 
-5 - Each Fork has his own board.
+- Each Fork has his own board.
 
 ## Repositories 
 
@@ -30,8 +30,11 @@ Our backend server is common for all the apps and is important to keep the back-
 ### Common Repos
 
 🏰 [Backend](https://github.com/RediLink/BackEnd)
+
 🚪 [Back Office](https://github.com/RediLink/backoffice)
+
 📝 [Documentation Repo](https://github.com/RediLink/docs)
 
 ### Wordpress Integration
+
 👷🏼‍♂️ [Wordpress Auth Plugin](https://github.com/RediLink/WPPlugin)
