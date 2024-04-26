@@ -24,6 +24,7 @@ Our backend server is common for all the apps and is important to keep the back-
 | -------- | ------- |
 | 🍒 [Redilink](https://github.com/RediLink/RediLink)  | 🪛 [Redilink Board](https://github.com/orgs/RediLink/projects/12)    |
 | 📚 [SDL](https://github.com/RediLink/SDL) | 🪛 [SDL Board](https://github.com/orgs/RediLink/projects/11)     |
+|🛍️  [Shopping Center](https://github.com/RediLink/MobileApp/tree/SCF_prod) | 🪛 [SCF Board](https://github.com/orgs/RediLink/projects/6)
 
 **📱 [Mobile App Master Repo](https://github.com/RediLink/MobileApp)**
 
