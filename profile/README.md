@@ -28,11 +28,12 @@ Our backend server is common for all the apps and is important to keep the back-
 
 **📱 [Mobile App Master Repo](https://github.com/RediLink/MobileApp)**
 
+
 ### Common Repos
 
 🏰 [Backend](https://github.com/RediLink/BackEnd)
 
-🚪 [Back Office](https://github.com/RediLink/backoffice)
+🚪 [Back Office](https://github.com/RediLink/backoffice) | 🪛 [Back Office Project](https://github.com/orgs/RediLink/projects/14/views/1)
 
 📝 [Documentation Repo](https://github.com/RediLink/docs)
 
