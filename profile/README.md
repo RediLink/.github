@@ -39,7 +39,7 @@ Our backend server is common for all the apps and is important to keep the back-
 
 📝 [Documentation Repo](https://github.com/RediLink/docs)  [Notion Wiki]() 
 
-🔗 [Universal Link Repo](https://github.com/RediLink/CSFWeb)
+⛓️ [Universal Link Repo](https://github.com/RediLink/deep-link)  ℹ️ [Notion Tutorial](https://www.notion.so/coderbunker/Deep-Linking-1231cf8d8f284521827e3f8d644091ad?pvs=4)
 
 
 
